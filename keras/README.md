@@ -6,11 +6,12 @@ All these python notebook files are tested in Anaconda 3.6:
  > conda install -c conda-forge keras
  
  ## Windows Installation of tensorflow and keras:
- ### If the above two commands don't work, please try the followings in the order
+ ### If the above two commands don't work, please try the followings first
  > pip install tensorflow
  
  > pip install keras
  
+ ### If the above don't work, please try the followings
  
  > pip install --ignore-installed --upgrade tensorflow 
  
